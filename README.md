@@ -9,7 +9,7 @@ Notebook economics.ipynb demonstrates two scenarios.
 ### Scenario 1: A team consisting of a product manager and a developer working on coding task
 
 
-### Scenario 2: 2. More Complex Task: Retrieve and Analyse RBA (Reserve Bank of Australia) meeting minutes
+### Scenario 2: More Complex Task: Retrieve and Analyse RBA (Reserve Bank of Australia) meeting minutes
 
 The team of agents are given the link to RBA Monetary Policy meeting minutes, and are expected to predict whether interest rate will be raised in the next month or not.
 
